@@ -1,0 +1,5 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+* {
+   font-family: "Proxima Nova", "Inter" !important;
+   font-size: 16px !important; 
+}
